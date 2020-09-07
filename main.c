@@ -13,7 +13,7 @@ int main ()
     printf("Paranızın bankada duracağı süreyi giriniz(Yıl): ");
     scanf("%d", &k);
     printf("\n");
-    for (l=1; l<k; l++)
+    for (l=0; l<k; l++)
     {
         m=m+i*12;
         i=i+(i*j/100);
