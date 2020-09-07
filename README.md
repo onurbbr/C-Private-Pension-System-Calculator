@@ -1,2 +1,3 @@
-TR = Bu program, bankaya her yıl değişen aylık depozito tutarını hesaplar ve toplamını sunar.
-EN = This program calculates the monthly deposit amount to the bank, which varies from year to year, and presents its total.
+TR = Bu program Bireysel Emeklilik Sistemi için hesap yapma programıdır.
+
+EN = This program is an accounting program for the Private Pension System.
